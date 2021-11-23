@@ -1,0 +1,17 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\VuNAP\OneDrive - ptit.edu.vn\Documents\C++\OOP\flappydragon"
+CMake Warning (dev) at CMakeLists.txt:10:
+  Syntax Warning in cmake code at column 36
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:14:
+  Syntax Warning in cmake code at column 43
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found SFML 2.5.1 in C:/Program Files (x86)/SFML/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/VuNAP/OneDrive - ptit.edu.vn/Documents/C++/OOP/flappydragon/cmake-build-debug
